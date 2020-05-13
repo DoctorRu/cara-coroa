@@ -1,4 +1,4 @@
-# caracoroa
+# Cara ou coroa
 
 App que escolhe entre cara ou coroa
 
